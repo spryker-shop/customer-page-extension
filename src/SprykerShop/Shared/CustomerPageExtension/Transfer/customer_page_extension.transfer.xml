@@ -16,4 +16,7 @@
     <transfer name="MultiFactorAuthValidationResponse" strict="true">
     </transfer>
 
+    <transfer name="MultiFactorAuth" strict="true">
+    </transfer>
+
 </transfers>
