@@ -19,4 +19,10 @@
     <transfer name="MultiFactorAuth" strict="true">
     </transfer>
 
+    <transfer name="ResourceOwnerRequest">
+    </transfer>
+
+    <transfer name="ResourceOwnerResponse">
+    </transfer>
+
 </transfers>
